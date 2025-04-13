@@ -50,12 +50,3 @@ Running the Program:
    python redeem.py
 4. Follow the prompts to input requisition data.
 
-Author:
--------
-Your Name Here
-
-Note:
------
-- This is a command-line-based prototype.
-- No data is saved permanently; all entries are stored in memory during execution only.
-
